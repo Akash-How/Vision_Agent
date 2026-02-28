@@ -1,0 +1,11 @@
+.venv_agent/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+sessions/
+vision_state.json
+cogniguard_metrics.json
+vision_session_log.jsonl
+_vision_test.jpg
