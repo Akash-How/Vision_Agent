@@ -92,7 +92,7 @@ Structured output format:
   "reason": "Short AI explanation",
   "latency_ms": 6200,
   "fps": 8.4,
-  "model": "minimax-m2:cloud",
+  "model": "your LLM",
   "timestamp": "2026-02-28T15:21:32Z"
 }
 ```
@@ -162,9 +162,9 @@ Vision_Agent/
 +-- cogniguard_metrics.json          # runtime-generated
 +-- sessions/                        # runtime logs
 +-- images/
-¦   +-- webcam_ui.png
-¦   +-- vision_agent_terminal.png
-¦   +-- dashboard.png
+Â¦   +-- webcam_ui.png
+Â¦   +-- vision_agent_terminal.png
+Â¦   +-- dashboard.png
 +-- README.md
 ```
 
